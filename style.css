@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.main2 {
+  background: url(photo/e.jpg);
+  width: 100%;
+  height: 100vh;
+  padding: auto;
+  position: relative;
+  overflow: hidden;
+}
+.main1 {
+  background: url(photo/61R0sGKCrmL._AC_SL1000_.jpg);
+  width: 100%;
+  height: 100vh;
+  padding: auto;
+  position: relative;
+  overflow: hidden;
+}
+.nav {
+  width: 80%;
+  position: sticky;
+  z-index: 1;
+  margin: 20% auto;
+  display: flex;
+  align-items: center;
+}
+
+.lojo1 {
+  width: 60px;
+  height: fit-content;
+  border-radius: 30px;
+  margin: 20% auto;
+  position: sticky;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.p1 {
+  color: white;
+  color: white;
+  font-variant: small-caps;
+  float: right;
+  margin-top: -50px;
+  margin-right: 1100px;
+}
+.nav-link1 {
+  flex: 1;
+  text-align:  right;
+  float: right;
+  margin-top: -53px;
+}
+.nav-link1 ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+.nav-link1 ul li a {
+  color: white;
+  text-decoration: none;
+  font-variant: small-caps;
+}
+h1 {
+  margin-left: 530px;
+  margin-top: 270px;
+  color: yellow;
+}
+
+.rizo3 {
+  width: 275px;
+  height: fit-content;
+}
+.linkush {
+  margin-top: 60px;
+}
+.fast {
+  width: 275px;
+  height: 183px;
+}
+.break {
+  width: 275px;
+  height: 183px;
+}
+.emb {
+  width: 275px;
+  height: 183px;
+}
+.bar {
+  width: 275px;
+  height: 183px;
+}
+.main3 {
+  background: url(photo/e.jpg);
+  width: 100%;
+  height: 100vh;
+  padding: auto;
+  position: relative;
+  overflow: hidden;
+}
+.vil {
+  width: 275px;
+  height: 183px;
+  border-radius: 50px;
+  
+}
+.we {
+  color: aliceblue;
+  font-variant: small-caps;
+  margin-left: 50px;
+}
+.men1 {
+  flex:1;
+  text-align:  right;
+  float: right;
+  margin-top: 80px;
+  text-decoration: none;
+  font-variant: small-caps;
+  margin-right: 1020px;
+  color: aliceblue;
+}
+.vi {
+  width: 275px;
+  height: 183px;
+  border-radius: 50px;
+  margin-left: 10px;
+}
